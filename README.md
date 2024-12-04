@@ -2,10 +2,6 @@
 Mayank</a></h1>
 <h3 align="center">A passionate backend developer from India &#127470;&#127475</h3>
 
-<p align="left"> <img alt="Mayank-Maurya" /> </p>
-
-<p align="left"> <a href="https://www.linkedin.com/in/mayankmaurya-000007" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="Mayank_Maurya" /></a> </p>
-
 - 🔭 I’m currently working in <a href="https://www.proqio.com/" target="blank">Proqio</a>
 
 - 🌱 I’m currently Working on Backend(Node)
