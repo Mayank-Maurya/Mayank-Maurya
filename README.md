@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/mayankmaurya-000007/" target="blank">
 Mayank</a></h1>
 <h3 align="center">A passionate backend developer from India &#127470;&#127475</h3>
 
 <p align="left"> <img alt="Mayank-Maurya" /> </p>
 
-<p align="left"> <a href="[https://twitter.com/100rabhcsmc](https://www.linkedin.com/in/mayankmaurya-000007/)" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/mayankmaurya-000007" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="Mayank_Maurya" /></a> </p>
 
 - 🔭 I’m currently working in <a href="https://www.proqio.com/" target="blank">Proqio</a>
 
@@ -23,7 +23,7 @@ Mayank</a></h1>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/mayankmaurya-000007/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="[https://github.com/100rabhcsmc](https://github.com/Mayank-Maurya)">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Mayank-Maurya">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="">
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@mayankmaurya001">
